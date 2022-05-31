@@ -1,0 +1,2 @@
+print("hentai")
+input()

